@@ -1,0 +1,14 @@
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\bin\Debug\net10.0\ConsoleColorChange.exe
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\bin\Debug\net10.0\ConsoleColorChange.deps.json
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\bin\Debug\net10.0\ConsoleColorChange.runtimeconfig.json
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\bin\Debug\net10.0\ConsoleColorChange.dll
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\bin\Debug\net10.0\ConsoleColorChange.pdb
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.AssemblyInfoInputs.cache
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.AssemblyInfo.cs
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.dll
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\refint\ConsoleColorChange.dll
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.pdb
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ConsoleColorChange.genruntimeconfig.cache
+D:\Visual Studio\C# projects\ConsoleColorChange\ConsoleColorChange\obj\Debug\net10.0\ref\ConsoleColorChange.dll
