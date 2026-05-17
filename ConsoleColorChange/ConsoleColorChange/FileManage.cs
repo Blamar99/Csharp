@@ -21,7 +21,7 @@ namespace ConsoleColorChange
             }
             else
             {
-                File.Create(filePath);
+                File.Create(filePath).Dispose();
                 StreamReader sr = new StreamReader(filePath);
                 line = sr.ReadLine();
                 sr.Close();
